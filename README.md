@@ -3,18 +3,21 @@
 </h1>
 
 <p align="center">
-🇦🇷 Argentina | 💻 Programación | 🌐 Web Developer
+🇦🇷 Argentina • 💻 Programación • 🌐 Desarrollo Web
 </p>
 
 <hr>
 
 ### 👨‍💻 Sobre mí
 
-- Me llamo **Diaz Matteo**
-- Me gusta la **programación** y crear **páginas web**
-- Me enfoco en **Front-End**
-- Actualmente aprendiendo **Back-End**
-- Me gusta configurar **servers de Minecraft**, plugins y builds
+Me llamo **Diaz Matteo** y soy de Argentina.  
+Me gusta la **programación** y todo lo relacionado al desarrollo web. Disfruto crear páginas, diseñar interfaces y trabajar principalmente en **Front-End**, cuidando tanto el diseño como la experiencia del usuario.
+
+Actualmente estoy aprendiendo **Back-End**, con el objetivo de poder desarrollar proyectos completos, desde el diseño hasta la lógica del servidor.
+
+Además, me gusta configurar **servidores de Minecraft**, crear y modificar **plugins**, y hacer **buildings**, combinando creatividad y lógica técnica.
+
+Siempre estoy buscando aprender cosas nuevas y mejorar mis proyectos.
 
 <hr>
 
@@ -28,19 +31,6 @@
 
 <hr>
 
-### 📊 GitHub Stats
+### 🎯 Objetivo
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dark" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark" />
-</p>
-
-<hr>
-
-### 💡 Objetivo
-
-Seguir aprendiendo, mejorar mis proyectos web y crecer como desarrollador 🚀
+Seguir creciendo como desarrollador, mejorar mis habilidades en **Back-End**, crear proyectos cada vez más completos y seguir combinando programación con creatividad 🚀
