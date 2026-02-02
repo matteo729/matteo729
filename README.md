@@ -1,35 +1,46 @@
 <h1 align="center">
-¡Hola, soy Diaz Matteo!
-	<a href="https://github.com/tu-usuario" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
+👋 Hola, soy Diaz Matteo
 </h1>
+
 <p align="center">
-	🇦🇷 De Argentina | 🚀 Desarrollador Full Stack en formación
-</p>
-<br/>
-<p align="center">
-	<a href="https://github.com/tu-usuario">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Desarrollador+Front-End;Aprendiendo+Back-End;Configurador+de+Servidores+Minecraft;Amante+de+la+programación&center=true&width=380&height=45&color=00ADB5&size=22">
-	</a>
+🇦🇷 Argentina | 💻 Programación | 🌐 Web Developer
 </p>
 
 <hr>
 
-## 👨‍💻 Sobre Mí
+### 👨‍💻 Sobre mí
 
-```javascript
-const diazMatteo = {
-  nombre: "Diaz Matteo",
-  pais: "Argentina",
-  intereses: [
-    "Programación",
-    "Desarrollo Web",
-    "Front-End",
-    "Back-End (en aprendizaje)",
-    "Configuración de servidores Minecraft",
-    "Plugins y builds de Minecraft"
-  ],
-  habilidades: ["HTML", "CSS", "JavaScript"],
-  objetivo: "Convertirme en un desarrollador Full Stack"
-};
+- Me llamo **Diaz Matteo**
+- Me gusta la **programación** y crear **páginas web**
+- Me enfoco en **Front-End**
+- Actualmente aprendiendo **Back-End**
+- Me gusta configurar **servers de Minecraft**, plugins y builds
+
+<hr>
+
+### 🚀 Lenguajes que uso
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?logo=javascript&logoColor=black" />
+</p>
+
+<hr>
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dark" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dark" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=dark" />
+</p>
+
+<hr>
+
+### 💡 Objetivo
+
+Seguir aprendiendo, mejorar mis proyectos web y crecer como desarrollador 🚀
